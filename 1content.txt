@@ -1,3 +1,7 @@
+http://www.icourse163.org/learn/zju-93001?tid=360003#/learn/custom?id=422051
 第一次编程作业：
 1.最大子列和问题：使用4种算法实现
 2.Maximum Subsequence Sum
+
+第二次编程作业：
+1.线性结构 一元多项式的乘法与加法运算  
